@@ -1,6 +1,7 @@
 # Python-Projects---Udemy
+ - pip install pyautogui
+ - pip install opencv-python
+ - pip install tkinter
+ - pip install numpy
+ - pip install bs4
 
-A simple Screenshot Application in python using Tkinter and Pyautogui
-
-
-Install the pyautogui  - pip install pyautogui
